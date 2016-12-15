@@ -46,7 +46,7 @@ function wpae_activation_warning() {
 	if ( get_transient( 'wpae-activation-warning' ) ) {
 		?>
 		<div class="notice notice-warning is-dismissible">
-			<p>All visitors to this site will now automatically be logged in as admin!</p>
+			<p>All site visitors will now be logged in as admin automatically!</p>
 		</div>
 		<?php
 		delete_transient( 'wpae-activation-warning' );
