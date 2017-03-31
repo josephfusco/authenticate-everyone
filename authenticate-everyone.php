@@ -1,13 +1,14 @@
 <?php
 /**
- * Plugin Name:    Authenticate Everyone
- * Plugin URI:     https://github.com/josephfusco/authenticate-everyone
- * Description:    Skip user authentication and make everyone admin - intended for local development.
- * Version:        1.0
- * Author:         Joseph Fusco
- * Author URI:     http://josephfus.co/
- * License:        GPLv2 or later
- * License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+ * Plugin Name:       Authenticate Everyone
+ * Plugin URI:        https://github.com/josephfusco/authenticate-everyone
+ * Description:       Skip user authentication and make everyone admin - intended for local development.
+ * Version:           1.0
+ * Author:            Joseph Fusco
+ * Author URI:        http://josephfus.co/
+ * License:           GPLv2 or later
+ * License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+ * GitHub Plugin URI: josephfusco/authenticate-everyone
  *
  * Based off of https://wordpress.org/plugins/no-login/
  */
