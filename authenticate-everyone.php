@@ -3,7 +3,7 @@
  * Plugin Name:       Authenticate Everyone
  * Plugin URI:        https://github.com/josephfusco/authenticate-everyone
  * Description:       Skip user authentication and make everyone admin - intended for local development.
- * Version:           1.0
+ * Version:           1.0.0
  * Author:            Joseph Fusco
  * Author URI:        http://josephfus.co/
  * License:           GPLv2 or later
